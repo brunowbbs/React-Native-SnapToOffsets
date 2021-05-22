@@ -1,8 +1,8 @@
 # React Native SnapToOffset! :D
 
-<div style="display:flex">
-  <img alt="GitHub last commit" src="./img.png" width="150">
-  <img alt="GitHub last commit" src="./img2.png" width="150">
+<div>
+  <img alt="GitHub last commit" src="./img.png" width="250">
+  <img alt="GitHub last commit" src="./img2.png" width="250">
 </div>
 
   
